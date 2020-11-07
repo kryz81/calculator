@@ -14,3 +14,5 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+
+[![Build Status](https://dev.azure.com/krzysztofpiechowicz/krzysztofpiechowicz/_apis/build/status/kryz81.calculator?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/krzysztofpiechowicz/krzysztofpiechowicz/_build/latest?definitionId=1&branchName=refs%2Fpull%2F1%2Fmerge)
